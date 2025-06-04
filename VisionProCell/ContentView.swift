@@ -17,7 +17,55 @@ struct ContentView: View {
         VStack {
             RealityView { content in
                 // Add the initial RealityKit content
-                if let scene = try? await Entity(named: "Scene", in: realityKitContentBundle) {
+                if let scene = try? await Entity(named: "Cell", in: realityKitContentBundle) {
+                    let group = scene.children[0].children.first {
+                        $0.name == "Group"
+                    }
+                    if let group {
+                        for child in group.children {
+                            if child.name == "nucleo" {
+                                let hoverComponent = HoverEffectComponent()
+                                child.components.set(hoverComponent)
+                            }
+                            if child.name == "reticuloEndoplasmaticoRugoso" {
+                                let hoverComponent = HoverEffectComponent()
+                                child.components.set(hoverComponent)
+                            }
+                            if child.name == "reticuloEndoplasmaticoLiso" {
+                                let hoverComponent = HoverEffectComponent()
+                                child.components.set(hoverComponent)
+                            }
+                            if child.name == "ribossomos" {
+                                let hoverComponent = HoverEffectComponent()
+                                child.components.set(hoverComponent)
+                            }
+                            if child.name == "complexoGolgi" {
+                                let hoverComponent = HoverEffectComponent()
+                                child.components.set(hoverComponent)
+                            }
+                            if child.name == "lisossomos" {
+                                let hoverComponent = HoverEffectComponent()
+                                child.components.set(hoverComponent)
+                            }
+                            if child.name == "centriolos" {
+                                let hoverComponent = HoverEffectComponent()
+                                child.components.set(hoverComponent)
+                            }
+                            if child.name == "mitocondrias" {
+                                let hoverComponent = HoverEffectComponent()
+                                child.components.set(hoverComponent)
+                            }
+                            if child.name == "vacuolos" {
+                                let hoverComponent = HoverEffectComponent()
+                                child.components.set(hoverComponent)
+                            }
+                            if child.name == "microtubulos" {
+                                let hoverComponent = HoverEffectComponent()
+                                child.components.set(hoverComponent)
+                            }
+                        }
+                    }
+                    
                     content.add(scene)
                 }
             } update: { content in
@@ -27,8 +75,8 @@ struct ContentView: View {
                     scene.transform.scale = [uniformScale, uniformScale, uniformScale]
                 }
             }
-            .gesture(TapGesture().targetedToAnyEntity().onEnded { _ in
-                enlarge.toggle()
+            .gesture(TapGesture().targetedToAnyEntity().onEnded { value in
+                print(value.entity.name)
             })
 
             VStack {
