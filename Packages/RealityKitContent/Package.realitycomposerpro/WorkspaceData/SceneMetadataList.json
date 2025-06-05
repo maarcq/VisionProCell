@@ -3,8 +3,7 @@
     "objectMetadataList" : [
       [
         "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
-        "Root",
-        "Sphere"
+        "Root"
       ],
       {
         "isExpanded" : true,
@@ -12,7 +11,8 @@
       },
       [
         "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
-        "Root"
+        "Root",
+        "Sphere"
       ],
       {
         "isExpanded" : true,
@@ -70,7 +70,7 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "Group"
+        "reticuloEndoplasmaticoRugoso"
       ],
       {
         "isExpanded" : true,
@@ -79,6 +79,46 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "complexoGolgi",
+        "Golgi_ApparatusComplex",
+        "Materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "complexoGolgi",
+        "Golgi_ApparatusComplex"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "complexoGolgi"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "reticuloEndoplasmaticoRugoso",
+        "Track"
       ],
       {
         "isExpanded" : true,
