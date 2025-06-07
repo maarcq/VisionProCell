@@ -48,8 +48,7 @@
     "objectMetadataList" : [
       [
         "90C576A0-F90A-43B8-9998-14918A66F863",
-        "Root",
-        "Sphere"
+        "Root"
       ],
       {
         "isExpanded" : true,
@@ -57,7 +56,8 @@
       },
       [
         "90C576A0-F90A-43B8-9998-14918A66F863",
-        "Root"
+        "Root",
+        "Sphere"
       ],
       {
         "isExpanded" : true,
@@ -70,7 +70,17 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "reticuloEndoplasmaticoRugoso"
+        "animacaoNucleo"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoComplexoG",
+        "Track"
       ],
       {
         "isExpanded" : true,
@@ -87,9 +97,8 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "complexoGolgi",
-        "Golgi_ApparatusComplex",
-        "Materials"
+        "animacaoNucleo",
+        "Track"
       ],
       {
         "isExpanded" : true,
@@ -98,8 +107,8 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "complexoGolgi",
-        "Golgi_ApparatusComplex"
+        "animacaoMitocondrias",
+        "Track"
       ],
       {
         "isExpanded" : true,
@@ -108,7 +117,17 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "complexoGolgi"
+        "animacaoGeral",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoRibossomos"
       ],
       {
         "isExpanded" : true,
@@ -118,6 +137,148 @@
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
         "reticuloEndoplasmaticoRugoso",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoLisossomos",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoCentriolos"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoReticuloLiso"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoComplexoG"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoReticuloLiso",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoLisossomos"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoVacuolo"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoRibossomos",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoReticuloRugoso",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoMitocondrias"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoVacuolo",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoMicrotubulos"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoReticuloRugoso"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoCentriolos",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoMicrotubulos",
         "Track"
       ],
       {

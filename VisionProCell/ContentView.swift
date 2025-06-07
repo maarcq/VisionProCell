@@ -20,21 +20,21 @@ struct ContentView: View {
                 if let scene = try? await Entity(named: "Cell", in: realityKitContentBundle) {
                     let children = scene.children[0].children
                     
-                    for child in children {
-                        switch child.name {
-                        case "nucleo":
-                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
-                        case "complexoGolgi":
-                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
-                        case "ribossomos":
-                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
-                        case "reticuloLiso":
-                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
-                        case "reticuloRugoso":
-                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
-                        default: break
-                        }
-                    }
+//                    for child in children {
+//                        switch child.name {
+//                        case "nucleo":
+//                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
+//                        case "complexoGolgi":
+//                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
+//                        case "ribossomos":
+//                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
+//                        case "reticuloLiso":
+//                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
+//                        case "reticuloRugoso":
+//                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
+//                        default: break
+//                        }
+//                    }
                     
                     content.add(scene)
                 }
