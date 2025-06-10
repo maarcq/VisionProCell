@@ -12,36 +12,27 @@ import RealityKitContent
 struct ContentView: View {
 
     @State var enlarge = false
+    @State private var  scene: Entity?
 
     var body: some View {
         VStack {
             RealityView { content in
                 // Add the initial RealityKit content
                 if let scene = try? await Entity(named: "Cell", in: realityKitContentBundle) {
-                    let children = scene.children[0].children
+                    self.scene = scene
                     
+//                    // Percorre todos os filhos da cena para configurar animações em loop
+//                    let children = scene.children[0].children
 //                    for child in children {
-//                        switch child.name {
-//                        case "nucleo":
-//                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
-//                        case "complexoGolgi":
-//                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
-//                        case "ribossomos":
-//                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
-//                        case "reticuloLiso":
-//                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
-//                        case "reticuloRugoso":
-//                            child.components.set(HoverEffectComponent(.highlight(.init(color: .orange, strength: 3.0))))
-//                        default: break
-//                        }
+//                        setupAnimationLoop(for: child)
 //                    }
-                    
+
                     content.add(scene)
                 }
             } update: { content in
                 // Update the RealityKit content when SwiftUI state changes
                 if let scene = content.entities.first {
-                    let uniformScale: Float = enlarge ? 1.4 : 1.0
+                    let uniformScale: Float = enlarge ? 1 : 0.6
                     scene.transform.scale = [uniformScale, uniformScale, uniformScale]
                 }
             }
@@ -53,15 +44,28 @@ struct ContentView: View {
                 Button {
                     enlarge.toggle()
                 } label: {
-                    Text(enlarge ? "Reduce RealityView Content" : "Enlarge RealityView Content")
+                    Text(enlarge ? "Reduzir conteúdo" : "Ampliar conteúdo")
                 }
                 .animation(.none, value: 0)
                 .fontWeight(.semibold)
+                .font(.title)
             }
             .padding()
             .glassBackgroundEffect()
         }
     }
+//    // Função para configurar animação em loop
+//    private func setupAnimationLoop(for entity: Entity) {
+//        // Verifica se a entidade tem animações
+//        guard let animationResource = entity.availableAnimations.first else {
+//            print("Não tem animação na entity: \(entity.name)")
+//            return
+//        }
+//        // Cria uma ação de animação em loop
+//        let loopAnimation = animationResource.repeat()
+//        
+//        entity.playAnimation(loopAnimation)
+//    }
 }
 
 #Preview(windowStyle: .volumetric) {
