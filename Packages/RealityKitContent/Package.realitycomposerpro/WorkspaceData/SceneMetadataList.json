@@ -48,7 +48,8 @@
     "objectMetadataList" : [
       [
         "90C576A0-F90A-43B8-9998-14918A66F863",
-        "Root"
+        "Root",
+        "Sphere"
       ],
       {
         "isExpanded" : true,
@@ -56,8 +57,7 @@
       },
       [
         "90C576A0-F90A-43B8-9998-14918A66F863",
-        "Root",
-        "Sphere"
+        "Root"
       ],
       {
         "isExpanded" : true,
@@ -70,278 +70,6 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "animacaoVacuolo"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoTODOS",
-        "Track4"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoTODOS",
-        "Track10"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "MICROTUBULOS"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "ANIMACAO",
-        "Track8"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoCompG",
-        "Track3"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoCompG",
-        "Track2"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "MICROTUBULOS",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoReticuloLiso"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoReticuloLiso",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "reticuloEndoplasmaticoRugoso",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "RLISO"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoRibossomos"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoNucleo",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoComplG"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoReticuloRugoso"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoCompG",
-        "Track6"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "ANIMACAO",
-        "Track9"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoCompG",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoCompG",
-        "Track7"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoCentriolos"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoCompG",
-        "Track8"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "_0ANIMACAO",
-        "Track2"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "_0ANIMACAO",
-        "Track3"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "CENTRIOLOS",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoTODOS",
-        "Track5"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoTODOS",
-        "Track2"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "ANIMACAO",
-        "Track3"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
         "animacaoCompG",
         "Track4"
       ],
@@ -352,7 +80,7 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "VACUOLO",
+        "_0ANIMACAO",
         "Track"
       ],
       {
@@ -364,6 +92,16 @@
         "Root",
         "ANIMACAO",
         "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoCompG",
+        "Track2"
       ],
       {
         "isExpanded" : true,
@@ -373,7 +111,7 @@
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
         "animacaoComplG",
-        "Track"
+        "Track5"
       ],
       {
         "isExpanded" : true,
@@ -382,7 +120,17 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "RRUGOSO"
+        "animacaoNucleo"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoCompG",
+        "Track"
       ],
       {
         "isExpanded" : true,
@@ -402,6 +150,16 @@
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
         "animacaoTODOS",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoMicrotubulos",
         "Track"
       ],
       {
@@ -411,7 +169,8 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "GOLGI"
+        "animacaoTODOS",
+        "Track8"
       ],
       {
         "isExpanded" : true,
@@ -420,7 +179,8 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "MITOCONDRIAS"
+        "LISOSSOMOS",
+        "Track"
       ],
       {
         "isExpanded" : true,
@@ -429,7 +189,36 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "MITOCONDRIAS",
+        "MICROTUBULOS",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "NUCLEO"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "GOLGI",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoReticuloLiso",
         "Track"
       ],
       {
@@ -440,7 +229,7 @@
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
         "ANIMACAO",
-        "Track5"
+        "Track6"
       ],
       {
         "isExpanded" : true,
@@ -449,7 +238,8 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "animacaoNucleo"
+        "_0ANIMACAO",
+        "Track2"
       ],
       {
         "isExpanded" : true,
@@ -458,7 +248,8 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "RIBOSSOMOS"
+        "ANIMACAO",
+        "Track10"
       ],
       {
         "isExpanded" : true,
@@ -467,7 +258,16 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "animacaoCompG",
+        "animacaoMitocondrias"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoTODOS",
         "Track9"
       ],
       {
@@ -476,47 +276,76 @@
       },
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoCompG",
-        "Track5"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoRibossomos",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoReticuloRugoso",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
         "ANIMACAO",
         "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoTODOS",
+        "Track6"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoComplG",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoReticuloRugoso"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoComplG",
+        "Track9"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoRibossomos"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoTODOS",
+        "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "CENTRIOLOS"
       ],
       {
         "isExpanded" : true,
@@ -535,7 +364,316 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
+        "animacaoTODOS",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "MITOCONDRIAS"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "VACUOLO",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "RRUGOSO"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "_0ANIMACAO",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "ANIMACAO",
+        "Track9"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "NUCLEO",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoCentriolos"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoTODOS",
+        "Track10"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoCompG",
+        "Track5"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "GOLGI"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoReticuloRugoso",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoComplG",
+        "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "RIBOSSOMOS"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoTODOS",
+        "Track5"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoComplG",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoLisossomos"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "ANIMACAO",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoReticuloLiso"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
         "Sphere"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "RIBOSSOMOS",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoNucleo",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoRibossomos",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoComplG",
+        "Track8"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoCompG",
+        "Track8"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoCompG",
+        "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoComplG",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "ANIMACAO",
+        "Track8"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoComplG"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "RLISO"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoCompG",
+        "Track9"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoTODOS",
+        "Track2"
       ],
       {
         "isExpanded" : true,
@@ -564,8 +702,8 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "animacaoTODOS",
-        "Track7"
+        "animacaoComplG",
+        "Track6"
       ],
       {
         "isExpanded" : true,
@@ -574,26 +712,7 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "GOLGI",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoMitocondrias"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "VACUOLO"
+        "animacaoVacuolo"
       ],
       {
         "isExpanded" : true,
@@ -603,6 +722,36 @@
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
         "ANIMACAO",
+        "Track5"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "reticuloEndoplasmaticoRugoso",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoVacuolo",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoCompG",
         "Track6"
       ],
       {
@@ -612,18 +761,8 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "animacaoTODOS",
-        "Track6"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoComplG",
-        "Track4"
+        "RRUGOSO",
+        "Track"
       ],
       {
         "isExpanded" : true,
@@ -633,75 +772,6 @@
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
         "animacaoTODOS",
-        "Track3"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoMitocondrias",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoGeral",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoComplG",
-        "Track7"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "RIBOSSOMOS",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoMicrotubulos"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoComplG",
-        "Track8"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoLisossomos",
         "Track"
       ],
       {
@@ -721,16 +791,6 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "animacaoTODOS",
-        "Track8"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
         "animacaoComplG",
         "Track10"
       ],
@@ -741,75 +801,7 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "ANIMACAO",
-        "Track10"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoMicrotubulos",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "_0ANIMACAO",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "NUCLEO"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "NUCLEO",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "CENTRIOLOS"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoCompG",
-        "Track10"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoVacuolo",
+        "animacaoLisossomos",
         "Track"
       ],
       {
@@ -828,35 +820,6 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "RRUGOSO",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoLisossomos"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoComplG",
-        "Track6"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
         "Timeline",
         "Track"
       ],
@@ -867,7 +830,7 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "animacaoComplG",
+        "animacaoCompG",
         "Track3"
       ],
       {
@@ -877,27 +840,7 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "animacaoTODOS",
-        "Track9"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "animacaoComplG",
-        "Track9"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
-        "Root",
-        "LISOSSOMOS",
+        "CENTRIOLOS",
         "Track"
       ],
       {
@@ -907,8 +850,65 @@
       [
         "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
         "Root",
-        "animacaoComplG",
-        "Track5"
+        "animacaoMicrotubulos"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoMitocondrias",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoCompG",
+        "Track10"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "MITOCONDRIAS",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "animacaoGeral",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "VACUOLO"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C5E9D6A8-5AB8-48C3-B4C3-4E158F90CD67",
+        "Root",
+        "MICROTUBULOS"
       ],
       {
         "isExpanded" : true,
